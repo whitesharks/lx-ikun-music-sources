@@ -39,6 +39,8 @@ https://wyapi.toubiec.cn/
 
 https://mscdownload.pages.dev  
 
+https://jx.chksz.top/
+
 **支持平台**：网易云音乐、QQ音乐等  
 **服务性质**：第三方解析，稳定性与安全性请自行评估
 
